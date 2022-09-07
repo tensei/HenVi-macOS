@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>HenVi Changelog</title>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Fri, 12 Aug 2022 21:12:54 +0200</pubDate>
+            <sparkle:version>84</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://api.henvi.dev/v1/download/HenVi%20macOS%200.1.1-84.zip" length="3835726" type="application/octet-stream" sparkle:edSignature="U3xtyZxuFU5RfNFlYz4eKakF1o5xB9gg3gomRgBI4GvL+3l3CS8GuZFtBFgdyQ/eW9SPmV7o0hf//2ADKpKHCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://api.henvi.dev/macos/HenVi84-81.delta" sparkle:deltaFrom="81" length="362982" type="application/octet-stream" sparkle:edSignature="kQPOMnoSqlm5LEVhiCetV3uf31mv6WqTJMY47r0qyM16b43VBAbrewZN0zUoldQ/cq0wPZ1ynQR97fZA9Gr8BA=="/>
+                <enclosure url="https://api.henvi.dev/macos/HenVi84-77.delta" sparkle:deltaFrom="77" length="669762" type="application/octet-stream" sparkle:edSignature="yNPh2aUQ/km2joKzSkc6aNwQihVP7Z+jcYKofqHzw8AF8o1g9utf+Dl3DSdilhIh3r1/9ZxHU2BsvZYPAWRlCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Fri, 05 Aug 2022 20:31:24 +0200</pubDate>
+            <sparkle:version>81</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://api.henvi.dev/v1/download/HenVi%20macOS%200.1.1.zip" length="3850075" type="application/octet-stream" sparkle:edSignature="ANKWCfy6my4CMQoeuD3qjMFSffMUXUL4ZliM4vS3mEb8tAchdV7+yEzuwQ1yKAqvXlp4nB3P8oXkIaOu+haOBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://api.henvi.dev/v1/download/HenVi81-77.delta" sparkle:deltaFrom="77" length="687054" type="application/octet-stream" sparkle:edSignature="j7tP0agNZ9MD395sw3SwuBhbG9du1MNuCE5rVDFGA32gVe6/AXeWQI/yiD0hQCQkFIt3IVUfbF0oyTN7s6G3AA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>HenVi 0.1 pre-release</title>
+            <pubDate>Fri, 22 Jul 2022 21:33:26 +0200</pubDate>
+            <sparkle:version>77</sparkle:version>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://api.henvi.dev/v1/download/HenVi%20macOS%200.1.zip" length="3761396" type="application/octet-stream" sparkle:edSignature="Kv0LaqeOXIKWLhYGGMk4d6PCv1fn8nVAQaQ3Jh/D0Nto3sY4et9lOzUs7epSuxUb3+Pl8S4UBEST+M/1wei1Cg=="/>
+        </item>
+    </channel>
+</rss>
