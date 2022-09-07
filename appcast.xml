@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>HenVi Changelog</title>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Wed, 07 Sep 2022 14:13:36 +0200</pubDate>
+            <sparkle:version>86</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/tensei/HenVi-macOS/releases/download/v1.1-86/HenVi.zip" length="3870813" type="application/octet-stream" sparkle:edSignature="v33kjfL/6CT3QeMyazHglmnCwM/Co1vVXDbmI8qahESb4hu1n3oVkbaw8WUS87QW8vyuF7jl9xUBCwnP5GiPBQ=="/>
+        </item>
+    </channel>
+</rss>
