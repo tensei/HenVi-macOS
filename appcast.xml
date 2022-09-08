@@ -6,6 +6,17 @@
         <language>en</language>
         <item>
             <title>0.1.1</title>
+            <pubDate>Thu, 08 Sep 2022 21:07:36 +0200</pubDate>
+            <sparkle:version>87</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/tensei/HenVi-macOS/releases/download/v1.1-87/HenVi.zip" length="3906269" type="application/octet-stream" sparkle:edSignature="UdrxEDhzBtLtL2GUDANesWmOCuLRJ0va8w4Yz9bgdClRSgPGX47D9Au0ch85Qu0JKvXuwRWFuqtH+E2zrwJ5Cw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/tensei/HenVi-macOS/releases/download/v1.1-87/HenVi87-86.delta" sparkle:deltaFrom="86" length="603114" type="application/octet-stream" sparkle:edSignature="BWTMr/RX64oyMNvIwGC7SlXdYS2bPDp+ySr32PHIs79ZBPX/eUxBZ1FfxV+2KaArctZEyPAeckk69iMBf8q7AQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.1</title>
             <pubDate>Wed, 07 Sep 2022 14:13:36 +0200</pubDate>
             <sparkle:version>86</sparkle:version>
             <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
