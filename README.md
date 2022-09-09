@@ -27,6 +27,9 @@
 </table>
 
 # Changelog
+    v1.1 build 88
+    - Added Search for artist and tags in Context Menu (right click on a gallery)
+    - Fixed some bugs
 
     v1.1 build 86
     - various bug fixes
