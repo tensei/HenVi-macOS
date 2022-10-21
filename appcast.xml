@@ -5,6 +5,20 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>0.1.2</title>
+            <pubDate>Fri, 21 Oct 2022 17:04:06 +0200</pubDate>
+            <sparkle:version>94</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/tensei/HenVi-macOS/releases/download/v1.2-94/HenVi.zip" length="4517335" type="application/octet-stream" sparkle:edSignature="uhhunZYGGbrF44WgIA3KG3Uaz4YfP5hh+uQIDnHiZhAHP2+htvncuAqIJv6L/Y9NNqgPkx+qFEPTk3NaPrncDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/tensei/HenVi-macOS/releases/download/v1.2-94/HenVi94-93.delta" sparkle:deltaFrom="93" length="1427442" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1381696" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="vOnKYNCMEKgISPHwRVILY/t9Zbdgi9pmWsK+LmoFhXqXqbnoIsQ1bQgXjqDtOHRASV22VJkjNyWWOzwdz/0uAQ=="/>
+                <enclosure url="https://github.com/tensei/HenVi-macOS/releases/download/v1.2-94/HenVi94-88.delta" sparkle:deltaFrom="88" length="1526174" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1381696" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="2a6E2di62DrKWTFyuFfrTZU75cajXeyFtuA4pIqEeDwnEU81kEklQjUZZ4jAMpJc+CKlP9v9FJOt4LkG5CJ4Dw=="/>
+                <enclosure url="https://github.com/tensei/HenVi-macOS/releases/download/v1.2-94/HenVi94-87.delta" sparkle:deltaFrom="87" length="1554006" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1381696" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="KWUJUumO/MxPibIpSXciMsCn7dQdkCn6nkDXV7YpuuInfpKKB2OYFXiY2QXLOU9A90wj/3O060nzoPSsZaA4Dw=="/>
+                <enclosure url="https://github.com/tensei/HenVi-macOS/releases/download/v1.2-94/HenVi94-86.delta" sparkle:deltaFrom="86" length="1452214" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1381696" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="wRkeTABy3QBY0uAmShxqysnpeVTLdJzqly2XY/KcxpKy0Ne/AwKhqa1ngHh41hFaAWVtJUJgrJNfTh6DBQfsBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Sun, 25 Sep 2022 17:46:19 +0200</pubDate>
             <sparkle:version>93</sparkle:version>
@@ -28,25 +42,6 @@
                 <enclosure url="https://github.com/tensei/HenVi-macOS/releases/download/v1.1-88/HenVi88-87.delta" sparkle:deltaFrom="87" length="295018" type="application/octet-stream" sparkle:edSignature="mcPOF5cgRKBiDFlVPXeNowfCejZ2Gs2/ImZ2Nt6p/TvnpVYXcxH+BBxDUPy85MuI3FaD9Su3LUVNY+geB7xHCA=="/>
                 <enclosure url="https://github.com/tensei/HenVi-macOS/releases/download/v1.1-88/HenVi88-86.delta" sparkle:deltaFrom="86" length="629934" type="application/octet-stream" sparkle:edSignature="8FYJ0Dp5m9Ldqb1njhktIUoluVNGHueH1BWjMnu8nigaQxpnnwfTQQ6KcKcWGmT/HPAr/8ngIfUvKmwSqliMAw=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.1</title>
-            <pubDate>Thu, 08 Sep 2022 21:07:36 +0200</pubDate>
-            <sparkle:version>87</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tensei/HenVi-macOS/releases/download/v1.1-87/HenVi.zip" length="3906269" type="application/octet-stream" sparkle:edSignature="UdrxEDhzBtLtL2GUDANesWmOCuLRJ0va8w4Yz9bgdClRSgPGX47D9Au0ch85Qu0JKvXuwRWFuqtH+E2zrwJ5Cw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/tensei/HenVi-macOS/releases/download/v1.1-87/HenVi87-86.delta" sparkle:deltaFrom="86" length="603114" type="application/octet-stream" sparkle:edSignature="BWTMr/RX64oyMNvIwGC7SlXdYS2bPDp+ySr32PHIs79ZBPX/eUxBZ1FfxV+2KaArctZEyPAeckk69iMBf8q7AQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.1</title>
-            <pubDate>Wed, 07 Sep 2022 14:13:36 +0200</pubDate>
-            <sparkle:version>86</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tensei/HenVi-macOS/releases/download/v1.1-86/HenVi.zip" length="3870813" type="application/octet-stream" sparkle:edSignature="v33kjfL/6CT3QeMyazHglmnCwM/Co1vVXDbmI8qahESb4hu1n3oVkbaw8WUS87QW8vyuF7jl9xUBCwnP5GiPBQ=="/>
         </item>
     </channel>
 </rss>
