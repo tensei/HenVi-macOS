@@ -6,6 +6,21 @@
         <language>en</language>
         <item>
             <title>0.1.2</title>
+            <pubDate>Sun, 18 Dec 2022 20:59:17 +0100</pubDate>
+            <sparkle:version>96</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/tensei/HenVi-macOS/releases/download/v1.2-96/HenVi.zip" length="4525414" type="application/octet-stream" sparkle:edSignature="wQpXT06B2sDrgEUYO9q3jug4g6O+50PUg/yXr0I5Wm8AbgppRMs2cYfFgokge5bQSpjAMbUqGJAFuZEpbyUbDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/tensei/HenVi-macOS/releases/download/v1.2-96/HenVi96-94.delta" sparkle:deltaFrom="94" length="498202" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1379168" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="FPSs118FcxVU+z677M6cQ7SJJBH9Ofgx73QV4N+Ih4pKgPXoYD9ZcrCFTza0zqBEzMN2f6FQXz5w3CB52yYZAQ=="/>
+                <enclosure url="https://github.com/tensei/HenVi-macOS/releases/download/v1.2-96/HenVi96-93.delta" sparkle:deltaFrom="93" length="1493386" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1381696" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="yOwyJdvqqkN2xNW+6dSy7coADzAl+UQUGvjbK1HqrO+r305ga872+E+N9f/p84JzxoVSDba69gP+EhnNGwG7AQ=="/>
+                <enclosure url="https://github.com/tensei/HenVi-macOS/releases/download/v1.2-96/HenVi96-88.delta" sparkle:deltaFrom="88" length="1585350" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1381696" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="yNYYzzMe7v+Yj9J/+3y+rGZkxSgaOTIatglxajtuZ5giWW4zyp7qIqmowSI+CFxwTJpwILGpM19nhadSoi0SCg=="/>
+                <enclosure url="https://github.com/tensei/HenVi-macOS/releases/download/v1.2-96/HenVi96-87.delta" sparkle:deltaFrom="87" length="1611278" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1381696" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="OYOP3f2aexYcpMuUKEpiQK8tPP/UBLxzqPa5L+gS/P+z7xjiAWC4+ysF6ktvbrmEsIDLLYYhod/JP0ZcJbV3Bw=="/>
+                <enclosure url="https://github.com/tensei/HenVi-macOS/releases/download/v1.2-96/HenVi96-86.delta" sparkle:deltaFrom="86" length="1522906" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1381696" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="e/wbG8UPCV3V5I/KFVOSl9A5eXwOoT4fAp2BnBZ460vj19DovjdTdFAkyhi0atFCocxpEWisTnHdt9iKK23iBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.2</title>
             <pubDate>Fri, 21 Oct 2022 17:04:06 +0200</pubDate>
             <sparkle:version>94</sparkle:version>
             <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
@@ -29,18 +44,6 @@
                 <enclosure url="https://github.com/tensei/HenVi-macOS/releases/download/v1.1-93/HenVi93-88.delta" sparkle:deltaFrom="88" length="482178" type="application/octet-stream" sparkle:edSignature="odjqaFwQXr9s4qRTscMxo+6rzfE7fUBZ6TQdQBu/TD+3hDAR7oBUMOW2p5lmtRab/XjXDCNB+p7rq/H4duFoCw=="/>
                 <enclosure url="https://github.com/tensei/HenVi-macOS/releases/download/v1.1-93/HenVi93-87.delta" sparkle:deltaFrom="87" length="514618" type="application/octet-stream" sparkle:edSignature="OZ/Q/WwgvFVguao3/K7zJaBjQUs5O71G+o7cupYgZRjPaUrGri0JTb8gbb6CX5pmx0zURM2PD+I/Gz4QCpFsAA=="/>
                 <enclosure url="https://github.com/tensei/HenVi-macOS/releases/download/v1.1-93/HenVi93-86.delta" sparkle:deltaFrom="86" length="763454" type="application/octet-stream" sparkle:edSignature="bqHba4ce4FaGxn2eljqiaJ2inniEtRt5hEAHt7KYxHWoa6fBv+LVhNtf5/UjFIuJoEP1TZ23WqotRJNgpyYkDw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.1</title>
-            <pubDate>Fri, 09 Sep 2022 23:09:49 +0200</pubDate>
-            <sparkle:version>88</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tensei/HenVi-macOS/releases/download/v1.1-88/HenVi.zip" length="3915830" type="application/octet-stream" sparkle:edSignature="Pz7Iv94YXUrMosQyH2Fc3uiVUPwyEgpCX44GlU8z78VbtWGrRPgn2QdVwm+rNc9VgyYgQuZRucASUeLPF0rSBw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/tensei/HenVi-macOS/releases/download/v1.1-88/HenVi88-87.delta" sparkle:deltaFrom="87" length="295018" type="application/octet-stream" sparkle:edSignature="mcPOF5cgRKBiDFlVPXeNowfCejZ2Gs2/ImZ2Nt6p/TvnpVYXcxH+BBxDUPy85MuI3FaD9Su3LUVNY+geB7xHCA=="/>
-                <enclosure url="https://github.com/tensei/HenVi-macOS/releases/download/v1.1-88/HenVi88-86.delta" sparkle:deltaFrom="86" length="629934" type="application/octet-stream" sparkle:edSignature="8FYJ0Dp5m9Ldqb1njhktIUoluVNGHueH1BWjMnu8nigaQxpnnwfTQQ6KcKcWGmT/HPAr/8ngIfUvKmwSqliMAw=="/>
             </sparkle:deltas>
         </item>
     </channel>
